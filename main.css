@@ -451,9 +451,8 @@ header .btn-login2 {
 
 
     #quarto-elemento .container {
-        left: 0;
         width: 100%;
-        max-width: 300px;
+        max-width: 100vh;
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(1, 1fr); /* Duas colunas com largura igual */
