@@ -463,6 +463,10 @@ header .btn-login2 {
         width: 100vh;
     }
 
+    #quarto-elemento .card {
+        width: 100%;
+    }
+
     .body {
         overflow-x: hidden;
     }
