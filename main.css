@@ -449,7 +449,9 @@ header .btn-login2 {
         padding-right: 10px;
     }
 
+
     #quarto-elemento .container {
+        left: 0;
         width: 100%;
         margin: 0 auto;
         display: grid;
@@ -458,7 +460,7 @@ header .btn-login2 {
     }
 
     #quarto-elemento .row {
-        width: 300vh;
+        width: 100vh;
     }
 
     .body {
