@@ -453,6 +453,7 @@ header .btn-login2 {
     #quarto-elemento .container {
         left: 0;
         width: 100%;
+        max-width: 300px;
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(1, 1fr); /* Duas colunas com largura igual */
@@ -460,7 +461,7 @@ header .btn-login2 {
     }
 
     #quarto-elemento .row {
-        width: 100vh;
+        width: 100%;
     }
 
     #quarto-elemento .card {
